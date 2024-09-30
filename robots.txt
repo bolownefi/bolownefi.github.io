@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bolownefi.github.io/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/app/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/assets/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/css/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/data/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/includes/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/item/sitemap.html.gz
+Sitemap: https://bolownefi.github.io/src/sitemap.html.gz
